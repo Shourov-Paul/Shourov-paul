@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shourov-Paul/Shourov-Paul/output/snake.svg" alt="Snake animation" />
+<img src="output/snake.svg" alt="Snake animation" />
 
 ###
