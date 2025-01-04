@@ -1,4 +1,5 @@
-<h1 align="center">Hi, <div align="center"><img src="output/hi.gif" alt="Exciting Animation" width="50"/></div> I'm Shourov Paul</h1>
+#
+Hi <img src="output/hi.gif" alt="Wave" width="50" height="50"/>, I'm Shourov Paul
 
 ###
 
