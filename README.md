@@ -1,5 +1,5 @@
-#
-Hi <img src="output/hi.gif" alt="Wave" width="50" height="50"/>, I'm Shourov Paul
+<h1 align="center">Hi,<img src="output/hi.gif" alt="Exciting Animation" width="50"/>I'm Shourov Paul</h1>
+
 
 ###
 
