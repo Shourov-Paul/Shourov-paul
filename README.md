@@ -1,5 +1,12 @@
-<h1 align="center">Hi,<img src="output/hi.gif" alt="Exciting Animation" width="50"/>I'm Shourov Paul</h1>
+<img src="output/hi.gif" alt="Exciting Animation" width="50"/>
 
+# 👋 Hi, I'm Shourov Paul
+
+🚀 **Electrical & Electronic Engineering (EEE) Graduate | Embedded Systems | IoT | Robotics Enthusiast**
+
+Welcome to my GitHub profile! I'm passionate about building intelligent hardware systems, real-time data visualization, and innovative robotics solutions.
+
+---
 
 ###
 
