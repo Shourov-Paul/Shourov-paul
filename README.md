@@ -1,19 +1,19 @@
 <!-- The following content is heavily optimized for SEO -->
 
-# <img src="output/hi.gif" alt="Exciting Animation" width="50"/> Hi, I'm Shourov Paul
-
+# Shourov Paul | Embedded Systems & Robotics Engineer
+<img src="output/hi.gif" alt="Shourov Paul Wave Animation" width="50"/> Hi, I'm **Shourov Paul** (often searched as **Shourof Paul**)!
 
 🚀 **Electrical & Electronic Engineering (EEE) Graduate | Embedded Systems | IoT | Robotics Enthusiast**
 
-Welcome to the GitHub profile of **Shourov Paul**. I am an EEE Graduate specializing in Embedded Systems and Development in Bangladesh. I am deeply passionate about building intelligent hardware systems, IoT infrastructure, real-time data visualization, and innovative robotics solutions.
+Welcome to my GitHub profile! I am an EEE Graduate specializing in Embedded Systems and IoT Development based in Bangladesh. I am deeply passionate about building intelligent hardware systems, real-time data visualization, and innovative robotics solutions.
 
+---
 
-
-## 🔍 About Me
+## 🔍 About Shourov Paul
 
 <h3 align="left">🎓 EEE Graduate from Daffodil International University (DIU)<br>💡 Passionate about Electronics, Robotics, and Digital Signal Processing (DSP)<br>🤖 Training Secretary at DIU Robotics Club<br>🌟 Exploring innovative projects like Scoppy and micro tunnel boring machines<br>📚 Currently exploring Machine Learning & Advanced Embedded Systems<br>⚡ Love solving practical problems like earthing resistance calculations<br>🚀 Let’s build something awesome together!</h3>
 
- 
+---
 
 ## 🛠️ Skills & Technologies
 
@@ -55,9 +55,9 @@ Welcome to the GitHub profile of **Shourov Paul**. I am an EEE Graduate speciali
 - **Web & IoT:** ESPAsyncWebServer, Highcharts, Real-time Dashboard Visualization, LittleFS
 - **Tools:** Arduino IDE, KiCad (PCB Design), Fusion 360 (3D Design), Simulink, Blender
 
- 
+---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects by Shourov Paul
 
 ### 🌞 Solar Panel Monitor (ESP32)
 - Real-time monitoring of voltage, current, power, and tilt angle using MPU6050 & INA3221 sensors.
@@ -75,18 +75,18 @@ Welcome to the GitHub profile of **Shourov Paul**. I am an EEE Graduate speciali
 - Utilizes ESP32 and PCA9685 servo controller.
 - Focuses on multi-servo coordination for walking mechanisms with future plans for AI-based movement control.
 
- 
+---
 
-## 🏆 GitHub Trophies & Activity
+## 🏆 Shourov's GitHub Trophies & Activity
 
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shourov-Paul&theme=dracula&hide_border=true" width="100%" alt="Shourov Paul Github Activity Graph" />
 </div>
 
- 
+---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Shourov Paul
 
 <div align="center">
   <a href="https://shourov-paul.github.io/" target="_blank">
@@ -99,13 +99,13 @@ Welcome to the GitHub profile of **Shourov Paul**. I am an EEE Graduate speciali
   <a href="https://www.youtube.com/channel/UCQ18lfqzlZH-a-WyphayNWw/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="Shourov Paul youtube logo"  /></a>
 </div>
 
- 
+---
 
 <div align="center">
   <img src="output/snake.svg" alt="Snake animation of Shourov Paul's GitHub contributions" />
 </div>
 
- 
+---
 
 ## 🎯 Search Tags & Professional Focus
 *Connecting with the industry through my core competencies:*
