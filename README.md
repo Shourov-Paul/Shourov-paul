@@ -1,6 +1,4 @@
-<img src="output/hi.gif" alt="Exciting Animation" width="50"/>
-
-# 👋 Hi, I'm Shourov Paul
+# <img src="output/hi.gif" alt="Exciting Animation" width="50"/> Hi, I'm Shourov Paul
 
 🚀 **Electrical & Electronic Engineering (EEE) Graduate | Embedded Systems | IoT | Robotics Enthusiast**
 
